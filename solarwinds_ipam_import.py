@@ -8,7 +8,6 @@ from orionsdk import SwisClient
 import os 
 import configparser
 import getpass
-import base64
 
 # Create a configuration INI
 config = configparser.ConfigParser()
