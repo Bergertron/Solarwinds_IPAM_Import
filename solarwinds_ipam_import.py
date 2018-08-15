@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 '''
 Solarwinds IPAM Import Script
+_AUTHOR: Jake Bergeron <Jakeb@plixer.com>
+_DATE: 8/15/2018
+_VERSION: 1.0
 '''
 # Needed Modules
 import requests
